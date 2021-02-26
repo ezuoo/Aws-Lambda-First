@@ -37,7 +37,7 @@ function LandingPage(props) {
             width: '100%', height: '100vh'
         }}>
             <div style={{ display: 'block'}}>
-                Home Page
+                Home Page123123
                 <br /><br />
                 <button onClick={onClickRegisterHandler}>
                     Register
